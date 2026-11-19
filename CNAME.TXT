@@ -1,2 +1,4 @@
 CNAME
-https://kanapazombie.github.io/
+
+https://kanapazombie.github.io/safety-scan2026/
+
