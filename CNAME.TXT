@@ -1,0 +1,2 @@
+CNAME
+https://kanapazombie.github.io/
